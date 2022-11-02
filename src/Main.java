@@ -52,6 +52,6 @@ public class Main {
             total1=total1+contribution1;
             System.out.println("Месяц "+i+" сумма накоплений равна "+total1+" рублей");
         }
-        System.out.println("Итого "+total1);// Задание 3.2
+        System.out.println("Итого= "+total1);// Задание 3.2
     }
 }
